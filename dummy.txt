@@ -1,0 +1,31 @@
+//Input 1
+Banyak Jenis Karyawan :
+Banyak Anggota Jenis Karyawan a : 
+Nama Anggota Jenis Karyawan a no 1 :
+Alamat Anggota Jenis Karyawan a no 1 :
+Jenis Kelamin Anggota Jenis Karyawan a no 1 :
+
+Nama Anggota Jenis Karyawan a no 2 :
+Alamat Anggota Jenis Karyawan a no 2 :
+Jenis Kelamin Anggota Jenis Karyawan a no 2 :
+
+Banyak Anggota Jenis Karyawan b :
+Nama Anggota Jenis Karyawan b no 1 :
+Alamat Anggota Jenis Karyawan b no 1 :
+Jenis Kelamin Anggota Jenis Karyawan b no 1 :
+
+Nama Anggota Jenis Karyawan b no 2 :
+Alamat Anggota Jenis Karyawan b no 2 :
+Jenis Kelamin Anggota Jenis Karyawan b no 2 :
+
+//Output 1
+| Jenis Karyawan | Nama | Alamat | Jenis Kelamin |
+|        a       |      |        |               |
+|        b       |      |        |               |
+
+//Input 2
+Divisi yang dicari : a
+
+| Jenis Karyawan | Nama | Alamat | Jenis Kelamin |
+|        a       |      |        |               |
+|        b       |      |        |               |
